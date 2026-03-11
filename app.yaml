@@ -1,3 +1,5 @@
+include:
+  - db.yaml
 services:
   s1app:
     image: prawee/strapi
